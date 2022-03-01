@@ -1,0 +1,1 @@
+import{d as n,f as a,r as i,o as u,c,w as l,q as r}from"./vendor.86ac192a.js";const _=r(" \u9009\u62E9\u56FE\u6807 "),v=n({setup(p){const e=a(!1);return(f,o)=>{const s=i("y-choose-icon");return u(),c(s,{visible:e.value,"onUpdate:visible":o[0]||(o[0]=t=>e.value=t),title:"\u9009\u62E9\u56FE\u6807"},{default:l(()=>[_]),_:1},8,["visible"])}}});export{v as default};
